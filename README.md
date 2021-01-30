@@ -1,5 +1,3 @@
-# Chocolate--Cookies
-
 ## _**Ingredients -**_
 1. 1 cup butter, softened
 2. 1 ½ cups white sugar
